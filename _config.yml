@@ -10,3 +10,6 @@ top-menu:
   name: Windows
 - url: #
   name: Администрирование
+  
+# Build settings
+theme: minima
